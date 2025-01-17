@@ -1,6 +1,6 @@
 # 👨‍💻 Leonardo Lima
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Leonardo da Silva Lima, tenho 30 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas TADS (UNINOVE). Atualmente, estou cursando Pós-Gradução em Engenharia de Software. 
 
