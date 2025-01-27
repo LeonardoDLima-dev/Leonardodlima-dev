@@ -1,9 +1,10 @@
 # 👨‍💻 Leonardo Lima
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullS-tack`**
 
 Me chamo Leonardo da Silva Lima, tenho 30 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas TADS (UNINOVE). Atualmente, estou cursando Pós-Gradução em Engenharia de Software. 
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)](https://leonardo-portfolio-project.netlify.app/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lima-25b23b67) 
 [![Email Badge](https://img.shields.io/badge/-0047AB?logo=microsoftoutlook&logoColor=white&label=leonardo.lima900%40hotmail.com&labelColor=0047AB&link=mailto%3Aleonardo.lima900%40hotmail.com)](mailto:leonardo.lima900@hotmail.com)
 ---
